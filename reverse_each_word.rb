@@ -5,6 +5,6 @@ def reverse_each_word(sentence)
     word.reverse
     #reversed << "#{word.reverse}"
   end
-  array.join(" ")
+  #array.join(" ")
   #reversed.join(" ")
 end
